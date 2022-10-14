@@ -1,3 +1,4 @@
+![emojimory](https://saudre.com/resources/images/games/emojimory.webp)
 ## Overview
 
 Emojimory is a memory game written in vanilla javascript. The main goal of the game is to find the 32 pairs of emojis with the less number of attempts.
@@ -11,5 +12,3 @@ Meanwhile, keep in mind that this is the first game I have developed, and, at th
 ## Status
 
 Completed
-
-![emojimory](https://saudre.com/resources/images/games/emojimory.webp)
